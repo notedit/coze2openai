@@ -29,7 +29,6 @@ COZE_USER_ID=你的_Coze_用户_ID
 
 确保用你的实际 Coze API 凭证替换上述占位符。
 
-5. 将 `cozeapi.py` 和 `main.py` 文件放在项目根目录。
 
 ### 使用说明
 
